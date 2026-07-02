@@ -1,0 +1,11 @@
+{
+  "product_id": "pastor",
+  "display_name": "PastorTasksAI",
+  "tool_prefix": "pastortasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://pastortasksai.com",
+  "billing_url": "https://pastortasksai.com/buy-credits.html",
+  "support_email": "support@pastortasksai.com",
+  "privacy_summary": "PastorTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. PastorTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my PastorTasksAI credit balance."
+}
