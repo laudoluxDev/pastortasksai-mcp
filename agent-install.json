@@ -3,7 +3,7 @@
   "product_id": "pastor",
   "product_name": "PastorTasksAI",
   "official_domain": "pastortasksai.com",
-  "official_github_repo": "https://github.com/laudoluxDev/pastortasksai-mcp",
+  "official_github_repo": "https://github.com/TasksAI-Official/pastortasksai-mcp",
   "official_package": "@tasksai/install",
   "installer": {
     "preferred": "npx",
@@ -13,7 +13,7 @@
         "@tasksai/install",
         "pastor",
         "--source",
-        "https://github.com/laudoluxDev/pastortasksai-mcp"
+        "https://github.com/TasksAI-Official/pastortasksai-mcp"
       ],
       "requires": [
         "node",
